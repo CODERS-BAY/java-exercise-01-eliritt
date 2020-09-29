@@ -6,10 +6,10 @@ public class Geometrics {
     private static double z = 3.0;
     private static int x1 = 8;
     private static int y1 = 7;
-    //private static int z1 = 10;
+    private static int z1 = 10;
     private static int x2 = 100;
     private static int y2 = 57;
-    //private static int z2 = 129;
+    private static int z2 = 129;
     private static int x3 = 45;
     private static int y3 = 89;
     private static int z3 = 69;
